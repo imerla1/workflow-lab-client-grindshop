@@ -1,0 +1,7 @@
+{
+  "demo_waybill": {
+    "repository": "git@github-imerla1:imerla1/workflow-lab-demo_waybill.git",
+    "tag": "18.0.1.0.0",
+    "commit": "864ad4896d086fcd375692cedc398a004bdaf3dc"
+  }
+}
